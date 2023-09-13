@@ -1,0 +1,8 @@
+@import '~normalize.css';
+
+@import './variables';
+
+html {
+  font-size: $font-size;
+  color: $font-color;
+}
